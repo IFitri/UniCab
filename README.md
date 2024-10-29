@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="LogoUniCab.png">
-    <img src="![LogoUniCab](https://github.com/user-attachments/assets/2f064083-8145-417c-b660-05ecf6c3c31f)" alt="Logo" width="120" height="120">
+  <a href="(https://github.com/IFitri/UniCab)">
+    <img src="LogoUniCab.png" alt="Logo" width="240" height="240">
   </a>
 
   <h3 align="center">Uber Clone</h3>
 
   <p align="center">
-    A Uber clone app made with android native (java) and firebase
+    A Taxi app for student made with android studio, google maps and firebase
     <br />
     <a href="https://github.com/IFitri/UniCab/wiki"><strong>Explore the docs »</strong></a>
     <br />
@@ -28,7 +28,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -39,26 +38,24 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+ 
     
   </ol>
 </details>
 
+
+![alt text](mockup.png "Title")
+
 <!-- ABOUT THE PROJECT -->
+## **About The Project**
 
-## ℹ️ About The Project
+today we confront a pressing challenge that affects our future—Sustainable Development Goal 8: Decent Work and Economic Growth. Despite advancements, youth unemployment remains alarmingly high, leaving millions of young people without opportunities to thrive. This gap not only stifles individual potential but also hinders economic progress and social stability.
 
-![alt text](mockup.html "Title")
+This app functions as a solution to the problems of youth unemployment and the need for flexible work opportunities. By providing a platform for students to work as taxi drivers and food riders, it empowers them to earn income while balancing their studies. With user-friendly features, real-time job notifications, and a supportive community, this app not only helps students gain valuable work experience but also fosters financial independence. It’s more than just a job; it’s a step towards a sustainable future for our youth.
 
-This repo contains the project made in my youtube chanel called simcoder. This project is a clone of the Uber android app.
 
-It is made using android native with java and some firebase services (authentication, real time database and storage).
 
-In the [master](https://github.com/SimCoderYoutube/UberClone/tree/master) branch you have the redesign project which I was previously selling in my website, however you still have access to the youtube series repo in the [youtube_series](https://github.com/SimCoderYoutube/UberClone/tree/youtube_series)
-
-You can follow the youtube series in the following [link](https://www.youtube.com/watch?v=7HbQx0lwRww&list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd&ab_channel=SimCoder)
-
-## 🆕 Getting Started
+- ### **Getting Started**
 
 - ### **Prerequisites**
 
@@ -71,12 +68,7 @@ You can follow the youtube series in the following [link](https://www.youtube.co
 
   In order to deploy the project you'll need to follow the [wiki page](https://github.com/IFitri/UniCab/wiki/Installation-UniCab) dedicated to this effect.
 
-## 🚧 Roadmap
+- ## **Roadmap**
 
-See the [open issues](https://github.com/SimCoderYoutube/UberClone/issues) for a list of proposed features (and known issues).
+See the
 
-<!-- CONTRIBUTING -->
-
-## ➕ Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please check the [Wiki](https://github.com/SimCoderYoutube/UberClone/wiki/How-to-Contribute)
