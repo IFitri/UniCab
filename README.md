@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="LogoUniCab.jpg">
+  <a href="LogoUniCab.png">
     <img src="![LogoUniCab](https://github.com/user-attachments/assets/2f064083-8145-417c-b660-05ecf6c3c31f)" alt="Logo" width="120" height="120">
   </a>
 
