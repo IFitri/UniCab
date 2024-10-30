@@ -31,7 +31,12 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Features">Features</a>
+      <ul>
+      </ul>
+    </li>
+    <li>
+      <a href="#Getting Started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -54,8 +59,22 @@ today we confront a pressing challenge that affects our future—Sustainable Dev
 This app functions as a solution to the problems of youth unemployment and the need for flexible work opportunities. By providing a platform for students to work as taxi drivers and food riders, it empowers them to earn income while balancing their studies. With user-friendly features, real-time job notifications, and a supportive community, this app not only helps students gain valuable work experience but also fosters financial independence. It’s more than just a job; it’s a step towards a sustainable future for our youth.
 
 
+<!-- Features -->
+## **Features**
 
-- ### **Getting Started**
+**Simple registration**
+We want to create best app student to get money by becoming our drivers.
+ 
+**Flexible working hours**
+Allows you to work whenever(not yet) and wherever you want. You can set your own schedule that fit your availability.
+
+**Easy earnings**
+you can earn competitive rates for every one of your cab sessions
+
+**Real-time tracking system**
+real-time tracking system allows you to stay up-to-date with your plan your route more efficiently.
+
+- ## **Getting Started**
 
 - ### **Prerequisites**
 
