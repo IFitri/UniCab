@@ -7,7 +7,7 @@
     <img src="LogoUniCab.png" alt="Logo" width="240" height="240">
   </a>
 
-  <h3 align="center">Uber Clone</h3>
+  <h3 align="center">UNiCAB</h3>
 
   <p align="center">
     A Taxi app for student made with android studio, google maps and firebase
