@@ -89,5 +89,5 @@ real-time tracking system allows you to stay up-to-date with your plan your rout
 
 - ## **UNiCAB**
 
-You can see how we setup this project in [Setup](https://github.com/IFitri/UniCab/wiki/UNiCAB-Setup) here.
+  You can see how we setup this project in [Setup](https://github.com/IFitri/UniCab/wiki/UNiCAB-Setup) here.
 
